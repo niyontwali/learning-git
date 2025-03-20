@@ -8,3 +8,5 @@
 `git init`
 4. Add changes to the stage area
 `git add .`
+5. Save changes of your codes (snapshot(version) of your codes)
+`git commit -m "description of what you did"`
