@@ -10,3 +10,7 @@
 `git add .`
 5. Save changes of your codes (snapshot(version) of your codes)
 `git commit -m "description of what you did"`
+6. Connect your local repository to your remote repository
+`git remote add origin repo_url`
+7. Push your codes to github
+`git push -u origin main`
